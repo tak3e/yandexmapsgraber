@@ -7,7 +7,9 @@
 - Json
 
 ## Установка и запуск
-~git clone https://github.com/chernyshov-dev/YMapsGrabber.git
+~~~
+git clone https://github.com/chernyshov-dev/YMapsGrabber.git
 cd YMapsGrabber/grab-grab
 pip3 install -r requirements.txt
-python3 main.py~
+python3 main.py
+~~~
