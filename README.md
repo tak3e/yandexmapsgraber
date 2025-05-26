@@ -1,1 +1,1 @@
-# yandexmapsgraber
+# YandexMapsGraber
