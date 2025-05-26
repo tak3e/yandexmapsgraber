@@ -3,5 +3,5 @@
 
 ## Stak
 - Python 3.13
-- Playwright.async_api + asyncio
-- json
+- Playwright + Asyncio
+- Json
