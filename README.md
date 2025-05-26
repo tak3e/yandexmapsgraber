@@ -9,7 +9,7 @@
 ## Установка и запуск
 ~~~
 git clone https://github.com/tak3e/yandexmapsgraber.git
-cd YMapsGrabber/grab-grab
+cd YandexMapsGraber
 pip3 install -r requirements.txt
 python3 main.py
 ~~~
