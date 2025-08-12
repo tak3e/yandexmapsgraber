@@ -27,6 +27,10 @@
 - **time_limit_for_parsing = 5000**
 Указывается в милисекундах. Время на обработку страницы, если время вышло и данные не получены, доступ заблокирован капчей.
 
+## Support
+
+If you need help or have any suggestions, you can write to me on [Telegram](https://t.me/tak3e/).
+
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat&logo=GitHub&labelColor=1D272B&color=819188&logoColor=white)](./LICENSE)
 
