@@ -7,12 +7,14 @@
 - Json
 
 ## Установка и запуск
-~~~
-git clone https://github.com/tak3e/yandexmapsgraber.git
-cd YandexMapsGraber
-pip3 install -r requirements.txt
-python3 main.py
-~~~
+> [!NOTE]
+>
+> ```sh
+> git clone https://github.com/tak3e/yandexmapsgraber.git
+> cd YandexMapsGraber
+> pip3 install -r requirements.txt
+> python3 main.py
+> ```
 
 После запуска откроется окно браузера. Сначала необходимо выбрать масштаб поиска, который отображается справа внизу. Чтобы увеличить или уменьшить масштаб, прокрутите колесиком мыши. Затем нажмите левую кнопку мыши и выберите точку на карте, после чего нажмите «Искать рядом». После этого начинается загрузка компаний и автоматический парсинг. По окончанию работы скрипта, появляется файл [result.json](https://github.com/tak3e/yandexmapsgraber/blob/main/results.json) с полученой информацией с сайтов.
 
@@ -25,6 +27,11 @@ python3 main.py
 - **time_limit_for_parsing = 5000**
 Указывается в милисекундах. Время на обработку страницы, если время вышло и данные не получены, доступ заблокирован капчей.
 
-## Важно
-Если нужно изменить данные для парсинга, к примеру нужны отзывы или что-то другое, обращайтесь сюда: [@tak3e](https://t.me/tak3e)
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat&logo=GitHub&labelColor=1D272B&color=819188&logoColor=white)](./LICENSE)
+
+Licensed under either of [The MIT License](./LICENSE) at your option.
+
+## Copyright
+Copyright © 2025, [@тёma](https://github.com/Tak3e)
 
